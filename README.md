@@ -30,8 +30,7 @@ The main goal was to derive meaningful insights from historical sales data, and 
 ---
 
 ## Dashboard Preview
-![Dashboard Screenshot](dashboard-preview.png)  
-(Home Page.png)
+![Dashboard Screenshot](Home Page.png)
 
 
 ---
