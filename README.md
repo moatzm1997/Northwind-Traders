@@ -30,7 +30,8 @@ The main goal was to derive meaningful insights from historical sales data, and 
 ---
 
 ## Dashboard Preview
-![Dashboard Screenshot](Home Page.png)
+![Dashboard Screenshot]
+(https://github.com/moatzm1997/Northwind-Traders/blob/1ceb31c8bebc2478a1e86cb13c5e48d231f52671/Region%20Page.png)
 
 
 ---
